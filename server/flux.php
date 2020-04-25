@@ -1,8 +1,8 @@
 <?php
 
 // Authentification 
-define('ADMIN_LOGIN',     "admin"); 
-define('ADMIN_PASSWORD',  "admin");
+define('ADMIN_LOGIN',     "goats"); 
+define('ADMIN_PASSWORD',  "ass");
 
 
 if (!isset($_SERVER['PHP_AUTH_USER']) 
